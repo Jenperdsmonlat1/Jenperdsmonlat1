@@ -1,7 +1,7 @@
 # <h1>Who I am ?</h1><br>
-<h3>Green hat.</h3><br>
-<h3>Programmer.</h3><br>
-<h3>Like create and share my projects.</h3><br>
+<h3>Green hat.</h3>
+<h3>Programmer.</h3>
+<h3>Like create and share my projects.</h3>
 
 <h3>Like create and share my projects.</h3>
 
