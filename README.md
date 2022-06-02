@@ -10,9 +10,9 @@
 ![](https://github.com/Cat-Man123/github-stats/blob/master/generated/languages.svg)
 
 <h2>Languages I know</h2>
-<img src="" />
-<img src="" />
-<img src="" />
+<img src="asset/c.png" />
+<img src="asset/c.png" />
+<img src="asset/c.png" />
 <img src="" />
 <img src="" />
 <img src="" />
