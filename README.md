@@ -11,13 +11,12 @@
 
 <h2>Languages I know</h2>
 <img src="asset/c.png" />
-<img src="asset/c.png" />
-<img src="asset/c.png" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
+<img src="asset/python.png" />
+<img src="asset/html.png" />
+<img src="asset/css.png" />
+<img src="asset/js.png" />
+<img src="asset/php.png" />
+<img src="asset/sql.png" />
+<img src="asset/java.png" />
+<img src="asset/kotlin.png" />
+<img src="asset/dart.png" />
