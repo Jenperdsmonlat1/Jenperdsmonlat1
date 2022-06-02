@@ -10,7 +10,7 @@
 ![](https://github.com/Cat-Man123/github-stats/blob/master/generated/languages.svg)
 
 <h2>Languages I know</h2>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F2048px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3APython-logo-notext.svg&tbnid=Egqmnejz6nS3EM&vet=12ahUKEwj-uqrNqY74AhUJ_xoKHaZVCi8QMygAegUIARDPAQ..i&docid=8T74k2Lb96Sd0M&w=2048&h=2048&q=python%20logo&client=firefox-b-e&ved=2ahUKEwj-uqrNqY74AhUJ_xoKHaZVCi8QMygAegUIARDPAQ" />
+<img src="" />
 <img src="" />
 <img src="" />
 <img src="" />
