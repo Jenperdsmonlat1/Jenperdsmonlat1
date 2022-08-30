@@ -7,4 +7,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-Man123&show_icons=true&theme=merko)
 
 <h3>My skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,css,dart,flask,flutter,github,html,idea,java,js,kotlin,linux,maven,mysql,php,py,qt,raspberrypi,selenium,tensorflow,vscode,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,css,dart,flask,flutter,github,html,idea,java,js,kotlin,linux,maven,mysql,php,py,qt,raspberrypi,selenium,tensorflow,vscode)](https://skillicons.dev)
