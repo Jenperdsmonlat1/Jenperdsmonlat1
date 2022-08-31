@@ -7,6 +7,6 @@ J'écris des articles sur medium lors de mon temps libre.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bash,c,css,dart,flask,flutter,github,html,idea,java,js,kotlin,linux,maven,mysql,php,py,qt,raspberrypi,selenium,tensorflow,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,c,css,dart,flask,flutter,github,html,idea,java,js,kotlin,linux,maven,mysql,php,py,qt,raspberrypi,selenium,tensorflow,vscode&perline=10" />
   </a>
 </p>
