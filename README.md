@@ -10,3 +10,5 @@ J'écris des articles sur medium lors de mon temps libre.
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,c,css,dart,flask,flutter,github,html,idea,java,js,kotlin,linux,maven,mysql,php,py,qt,raspberrypi,selenium,tensorflow,vscode&perline=10" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Cat-Man123&color=orange)
