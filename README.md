@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hobbyist programmer<br>Learning a lot of stuff like:<br>- Quantum Computing<br>- Operating System Development<br>- Malware Analysis<br>- Machine Learning / Deep Learning<br><br>I write some articles on Medium when I have the time.
+Hobbyist programmer<br>Somethings I do when I have the time:<br>- Quantum Computing<br>- Operating System Development<br>- Malware Analysis<br>- Machine Learning / Deep Learning
 
 
 ## 🌐 Socials:
